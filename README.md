@@ -51,3 +51,12 @@ $ make mint60:custom:avrdude
 ```
 
 - 実行後にデバイスを探し始めたらデバイスのリセットボタンを押して焼き始まる．
+
+
+## 自分用
+| パス                                    | 内容      |
+| --------------------------------------- | --------- |
+| keyboards/mint60/keymaps/costom_for_mac | mac用     |
+| keyboards/mint60/keymaps/costom_for_win | windows用 |
+
+- 違いとしてはスーペースバーの横がcommadキーかALTキーがどうか
